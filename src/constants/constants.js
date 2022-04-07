@@ -5,16 +5,16 @@ export const projects = [
       image: '/images/1.png',
       tags: ['HTML', 'Portfolio', 'CSS', 'Javascript'],
     source: 'https://github.com/BanglaSky/portfolio-html',
-    visit: 'https://github.com/BanglaSky',
+    visit: 'https://portfolio.ehsankhan.co.uk/',
     id: 0,
   },
   {
-    title: 'E-Commerce',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+    title: 'Tetris',
+    description:"One of my top React Projects so far. It has got the controls and features needed to play.",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/BanglaSky/tetris-js',
+    visit: 'https://tetris.ehsankhan.co.uk/',
     id: 1,
   },
   {
@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2017, text: 'Discovered Coding', },
+  { year: 2018, text: 'Made a web with Raw HTML and CSS', },
+  { year: 2019, text: 'Took a break from coding', },
+  { year: 2020, text: 'Forgot coding even existed', },
+  { year: 2021, text: 'Came back stronger and better at coding and I learned a new coding language', },
 ];
